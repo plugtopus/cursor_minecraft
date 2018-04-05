@@ -1,0 +1,60 @@
+.pickaxe {
+    cursor: url('chrome-extension://__MSG_@@extension_id__/img/pickaxe.png'), auto !important;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/pickaxe.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/pickaxe_2x.png') 2x
+    ), auto !important;
+}
+
+.pickaxe a, .pickaxe button, .cursorsHover {
+    cursor: url('img/pickaxe_hover.png'), pointer;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/pickaxe_hov.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/pickaxe_hov_2x.png') 2x), pointer !important;
+}
+
+.creeper {
+    cursor: url('chrome-extension://__MSG_@@extension_id__/img/creeper.png'), auto !important;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/creeper.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/creeper_2x.png') 2x
+    ), auto !important;
+}
+
+.creeper a, .creeper button, .creeper .cursorsHover {
+    cursor: url('img/creeper_hover.png'), pointer;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/creeper_hov.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/creeper_hov_2x.png') 2x), pointer !important;
+}
+
+.jedi {
+    cursor: url('chrome-extension://__MSG_@@extension_id__/img/jedi.png'), auto !important;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/jedi.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/jedi_2x.png') 2x
+    ), auto !important;
+}
+
+.jedi a, .jedi button, .jedi .cursorsHover {
+    cursor: url('img/jedi_hover.png'), pointer;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/jedi_hov.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/jedi_hov_2x.png') 2x), pointer !important;
+}
+
+.sword {
+    cursor: url('chrome-extension://__MSG_@@extension_id__/img/sword.png'), auto !important;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/sword.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/sword_2x.png') 2x
+    ), auto !important;
+}
+
+.sword a, .sword button, .sword .cursorsHover {
+    cursor: url('img/sword_hover.png'), pointer;
+    cursor: -webkit-image-set(
+            url('chrome-extension://__MSG_@@extension_id__/img/sword_hov.png') 1x,
+            url('chrome-extension://__MSG_@@extension_id__/img/sword_hov_2x.png') 2x), pointer !important;
+}
+
