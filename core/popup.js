@@ -80,7 +80,7 @@ function alloffClick() {
 
 function allOffOn() {
     document.getElementsByClassName("wrapper")[0].classList.add("alloff");
-    alloff.innerHTML = "Выключить";
+    alloff.innerHTML = "Включить";
     alloff.classList.add("offOn");
     offswitcher = true;
 }
